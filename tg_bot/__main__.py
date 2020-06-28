@@ -22,16 +22,7 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-
-
-
-
-
 For more commands click /help...
-
-
-
-
 HELP_STRINGS = """
 
 Hello! my name *{}*.
